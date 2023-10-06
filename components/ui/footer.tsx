@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="sm:col-span-12 lg:col-span-2 lg:max-w-xs">
             <div className="mb-2">
               {/* Logo */}
-              <Link className="inline-flex" href="/" aria-label="Cruip">
+              <Link className="inline-flex" href="/" aria-label="">
                 <svg className="w-8 h-8" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                   <defs>
                     <linearGradient x1="0%" y1="32.443%" x2="104.18%" y2="50%" id="flogo-a">
